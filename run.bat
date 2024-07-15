@@ -1,0 +1,1 @@
+pytest -v -s --html=Reports\reports.html testCases\test_customerPage.py --browser chrome
